@@ -6,7 +6,7 @@ description: Description1
 
 Content1
 
-```text
+```
 [ShellcodeRunner.Program]::Run()
 ```
 
@@ -16,5 +16,4 @@ Content1
 test hint
 {% endhint %}
 
-
-
+![test name](.gitbook/assets/изображение.png)
